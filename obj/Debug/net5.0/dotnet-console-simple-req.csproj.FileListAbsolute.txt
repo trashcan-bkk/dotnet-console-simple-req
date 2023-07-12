@@ -1,0 +1,17 @@
+/Users/panitarn/Projects/dotnet-console-simple-req/bin/Debug/net5.0/dotnet-console-simple-req.deps.json
+/Users/panitarn/Projects/dotnet-console-simple-req/bin/Debug/net5.0/dotnet-console-simple-req.runtimeconfig.json
+/Users/panitarn/Projects/dotnet-console-simple-req/bin/Debug/net5.0/dotnet-console-simple-req.runtimeconfig.dev.json
+/Users/panitarn/Projects/dotnet-console-simple-req/bin/Debug/net5.0/dotnet-console-simple-req.dll
+/Users/panitarn/Projects/dotnet-console-simple-req/bin/Debug/net5.0/ref/dotnet-console-simple-req.dll
+/Users/panitarn/Projects/dotnet-console-simple-req/bin/Debug/net5.0/dotnet-console-simple-req.pdb
+/Users/panitarn/Projects/dotnet-console-simple-req/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/panitarn/Projects/dotnet-console-simple-req/obj/Debug/net5.0/dotnet-console-simple-req.csproj.AssemblyReference.cache
+/Users/panitarn/Projects/dotnet-console-simple-req/obj/Debug/net5.0/dotnet-console-simple-req.GeneratedMSBuildEditorConfig.editorconfig
+/Users/panitarn/Projects/dotnet-console-simple-req/obj/Debug/net5.0/dotnet-console-simple-req.AssemblyInfoInputs.cache
+/Users/panitarn/Projects/dotnet-console-simple-req/obj/Debug/net5.0/dotnet-console-simple-req.AssemblyInfo.cs
+/Users/panitarn/Projects/dotnet-console-simple-req/obj/Debug/net5.0/dotnet-console-simple-req.csproj.CoreCompileInputs.cache
+/Users/panitarn/Projects/dotnet-console-simple-req/obj/Debug/net5.0/dotnet-console-simple-req.csproj.CopyComplete
+/Users/panitarn/Projects/dotnet-console-simple-req/obj/Debug/net5.0/dotnet-console-simple-req.dll
+/Users/panitarn/Projects/dotnet-console-simple-req/obj/Debug/net5.0/ref/dotnet-console-simple-req.dll
+/Users/panitarn/Projects/dotnet-console-simple-req/obj/Debug/net5.0/dotnet-console-simple-req.pdb
+/Users/panitarn/Projects/dotnet-console-simple-req/obj/Debug/net5.0/dotnet-console-simple-req.genruntimeconfig.cache
